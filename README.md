@@ -1,7 +1,7 @@
 # InvoiceNumbersParser
 Klarna exercise solution
 
-Run instructions:
+## Run instructions:
 
 To run the tests, install PHPUnit. 
 
@@ -13,7 +13,6 @@ chmod +x phpunit.phar
 
 mv phpunit.phar /usr/local/bin/phpunit
 
-run the tests: 
-cd <tests-folder-path>
+run the tests: (from tests folder path)
 phpunit InvoiceNumbersParserTest
 
